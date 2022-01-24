@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>vandana project Repository</name>
-	      <url>http://13.235.132.93:8081/repository/projectrelease/</url>
+	      <url>http://65.0.72.200:8081/repository/demorelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>vandana project </name>
-	      <url>http://13.235.132.93:8081/repository/projectsnapshot/</url>
+	      <url>http://65.0.72.200:8081/repository/demosnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
